@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SudhanshuVishwakarma
-- 👀 I’m interested in No idea
+- 👀 I’m interested in idk
 - 🌱 I’m currently learning python
 - 📫 How to reach me ... vsudhanshu18@gmail.com
 
