@@ -65,18 +65,16 @@ ________________________________________________________________________________
 
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
+<p align=left>
   <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
-  <br/>
-  ⚡ I'm a <b>Polyglot programmer</b> in diverse languages
-  <br/>
-  ⚠ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="Sudhanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SudhanshuVishwakarma&theme=dark&show_icons=true&hide_border=true&count_private=true" height="172px"/></a><br>
+	<a href="https://git.io/streak-stats" title="Go to Source">
+    <img alt="SudhanshuVishwakarma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuVishwakarma&theme=dark&show_icons=true&hide_border=true&layout=compact" height="192px"/>
+  </a><br>
+	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="SudhanshuVishwakarma's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanshuVishwakarma&theme=dark&hide_border=true" height="172px"/></a>
+  
 
-<p align=center>
-  <a href="https://git.io/streak-stats" title="Go to Source">
-    <img alt="AswinBarath's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AswinBarath&theme=react&border=61dafb" height="192px"/>
-  </a>
+  
 </p>
 <br />
 
